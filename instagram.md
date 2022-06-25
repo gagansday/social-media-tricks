@@ -1,3 +1,5 @@
+# Instagram
+
 Step 1: Visit: https://www.instagram.com/accounts/access_tool/current_follow_requests
 
 Step 2: Scroll to the bottom of the page
